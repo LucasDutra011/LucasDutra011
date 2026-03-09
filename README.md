@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Student of Internet Informatics (Web Development) at ETEC – Centro Paula Souza
-📍 São Paulo, Brazil
+📍 Brazil
 
 Interested in software development, technology, and building practical projects.
 
