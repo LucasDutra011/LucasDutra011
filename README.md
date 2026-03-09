@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**LucasDutra011/LucasDutra011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student of Internet Informatics (Web Development) at ETEC – Centro Paula Souza
+📍 São Paulo, Brazil
 
-Here are some ideas to get you started:
+Interested in software development, technology, and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💻 About Me
+
+- 🎓 Currently studying Internet Informatics at ETEC
+- 🌐 Focused on web development
+- 🧠 Continuously learning new technologies and tools
+- 🌍 Interested in languages and global technology
+
+---
+
+🛠️ Technologies & Tools
+
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🔧 Git
+- 🐙 GitHub
+
+---
+
+📚 Currently
+
+- Improving my web development skills
+- Building projects for my portfolio
+- Learning new technologies in software development
+
